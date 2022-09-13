@@ -1,2 +1,2 @@
 # Rust-Projects
-Collection of rust Projects to learn core rust concepts
+An collection of small Rust projects implemented while learning the rust language
